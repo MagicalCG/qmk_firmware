@@ -4,6 +4,10 @@
   "productId": "0x0233",
   "keycodes": ["qmk_lighting"],
   "customKeycodes": [
+    {"name": "WkS", "title": "press W + release S", "shortName": "WkS"},
+    {"name": "AkD", "title": "press A + release D", "shortName": "AkD"},
+    {"name": "SkW", "title": "press S + release W", "shortName": "SkW"},
+    {"name": "DkA", "title": "press D + release A", "shortName": "DkA"},
     {"name": "Left Option", "title": "Left Option", "shortName": "LOpt"},
     {"name": "Right Option", "title": "Right Option", "shortName": "ROpt"},
     {"name": "Left Cmd", "title": "Left Command", "shortName": "LCmd"},
